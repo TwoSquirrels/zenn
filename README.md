@@ -1,3 +1,3 @@
-# Zenn CLI
+# りすりす/TwoSquirrels の Zenn リポジトリ
 
-* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
+[りすりす/TwoSquirrels | Zenn](https://zenn.dev/twosquirrels)
