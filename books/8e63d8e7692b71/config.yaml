@@ -1,0 +1,24 @@
+title: ゲーム制作で学ぶ JavaScript 入門
+summary: |-
+  PixiJS を用いて Web ゲームを作りながら JavaScript 言語をゼロから学ぶことができます。
+  HTML などの Web 知識は不要です。
+  対象年齢: 11歳〜
+topics:
+  - javascript
+  - 初心者
+  - tech
+  - PixiJS
+  - 入門
+published: false
+price: 0
+toc_depth: 2
+chapters:
+  - 01-introduction
+  - 02-try-to-run-js
+  - 03-js-writing-rules
+  - 04-setting-up-pixijs
+  - 05-numerical-calculations
+  - 06-use-strings
+  - 07-what-are-variables
+  - 08-compare-and-judge
+  - 09-various-loops
