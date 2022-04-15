@@ -1,0 +1,23 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "description": "りすりす/TwoSquirrels の Zenn との連携",
+  "main": "index.js",
+  "dependencies": {
+    "zenn-cli": "^0.1.109"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "zenn preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TwoSquirrels/zenn.git"
+  },
+  "author": "TwoSquirrels",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/TwoSquirrels/zenn/issues"
+  },
+  "homepage": "https://zenn.dev/twosquirrels"
+}

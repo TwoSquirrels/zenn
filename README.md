@@ -9,24 +9,25 @@ Issue や Contribute 是非お願いします。
 ### インストール
 
 NodeJS を入れている必要があります。  
-`-g` オプションを使うことでグローバルインストールができます。  
 
 ```shell
-npm i -g zenn-cli
+npm install
 ```
+
+で zenn-cli をインストールできます。  
 
 ### 使い方
 
 リポジトリの一番上 (`.gitignore`があるディレクトリ) で  
 
 ```shell
-zenn
+npx zenn
 ```
 
 または  
 
 ```shell
-zenn preview
+npx zenn preview
 ```
 
 でプレビューサイトを [localhost:8000](//localhost:8000) でホスティングできます。  
